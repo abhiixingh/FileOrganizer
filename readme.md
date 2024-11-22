@@ -44,19 +44,19 @@ Code Overview:-
 
  sample images:-
 1.-
- ![source1](D:/python/Project/file organizer/images/source1.png)
+![location](https://github.com/user-attachments/assets/9ad10bec-46dd-4f50-90ba-00d94a07305f)
 
 2.-
- ![first3](D:/python/Project/file organizer/images/first3.png)
+![organized](https://github.com/user-attachments/assets/46e792f4-7c28-4bcd-a409-d64efa8fbb27)
 
 3.-
- ![last4](D:/python/Project/file organizer/images/last4.png)
+![source1](https://github.com/user-attachments/assets/665c4b85-cdd7-40f5-97c2-d7e74073d31b) 
 
 4.-
- ![location](D:/python/Project/file organizer/images/location.png)
+![correctfiles](https://github.com/user-attachments/assets/dbf7ba97-34a8-48f2-890d-4806da91baef) 
 
 5.-
- ![organized](D:/python/Project/file organizer/images/organized.png)
+![first3](https://github.com/user-attachments/assets/073dada5-f1fa-4996-872d-259e3dd08cab) 
 
 6.- 
- ![correctfiles](D:/python/Project/file organizer/images/correctfiles.png)
+![last4](https://github.com/user-attachments/assets/a71f6556-67fa-44de-9cbb-69cee731a4dc)
